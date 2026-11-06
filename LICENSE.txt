@@ -1,0 +1,29 @@
+KINETIQ Freeware License
+
+Copyright (c) 2026 KINETIQ. All rights reserved.
+
+1. Free use. You may download, install and use KINETIQ free of charge, on any
+   number of computers, for personal or work purposes.
+
+2. Your macros are yours. Macros, recordings and images you create with KINETIQ
+   belong to you.
+
+3. Restrictions. You may not sell, rent or license KINETIQ or charge for it; bundle
+   it with another product; distribute modified copies; or decompile,
+   disassemble or reverse-engineer it, except where applicable law expressly
+   allows this despite this restriction. Please share a link to the official
+   download page instead of the installer itself, so others always get an
+   unmodified, current copy.
+
+4. Responsible use. You are responsible for how you use KINETIQ, including
+   following the terms of the software, games and services you automate.
+
+5. No warranty. KINETIQ is provided "as is", without warranty of any kind,
+   express or implied, including warranties of merchantability, fitness for a
+   particular purpose and non-infringement.
+
+6. Limitation of liability. To the extent permitted by law, the copyright holder
+   is not liable for any claim, damages or other liability, whether in contract,
+   tort or otherwise, arising from or in connection with KINETIQ or its use.
+
+All rights not expressly granted here are reserved.
