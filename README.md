@@ -4,7 +4,7 @@
 
 Record what you do once — clicks, keystrokes, scrolling and timing — then refine it on a visual timeline and replay it from a button, a global hotkey, a chain or a schedule.
 
-### [⬇ Download KINETIQ for Windows](../../releases/latest)
+### [⬇ Download KINETIQ 1.1.0 for Windows](https://github.com/MrShark333/kinetiq-download/raw/main/KINETIQ_1.1.0_x64-setup.exe)
 
 Windows 10 or 11, 64-bit · about 4 MB · no administrator rights needed · no account, no ads, no telemetry
 
@@ -44,14 +44,14 @@ Windows 10 or 11, 64-bit · about 4 MB · no administrator rights needed · no a
 
 ## Install
 
-1. Download **`KINETIQ_x.y.z_x64-setup.exe`** from the [latest release](../../releases/latest).
+1. Download **[KINETIQ_1.1.0_x64-setup.exe](https://github.com/MrShark333/kinetiq-download/raw/main/KINETIQ_1.1.0_x64-setup.exe)** (or click it in the file list above, then **Download raw file**).
 2. Double-click it. It installs for your user account only, so no administrator password is needed.
 3. Windows may say *"Windows protected your PC"*, because KINETIQ is not code-signed. Click **More info**, then **Run anyway**.
 4. KINETIQ opens when setup finishes, and is in the Start menu afterwards.
 
 To update, run the newer installer: your macros and settings are kept. To remove KINETIQ, use **Settings → Apps** in Windows.
 
-Each release lists the installer's SHA-256 checksum, so you can check your download with `Get-FileHash KINETIQ_*_x64-setup.exe` in PowerShell.
+To check your download, compare `Get-FileHash KINETIQ_1.1.0_x64-setup.exe` in PowerShell with [SHA256.txt](SHA256.txt). What's new: [release notes](RELEASE_NOTES.md).
 
 ## Default hotkeys
 
